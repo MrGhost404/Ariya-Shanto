@@ -1,0 +1,8 @@
+{
+  "name": "অ্যানিমেল ডক্টর শান্ত | Animal Doctor Shanto - Veterinary Care & Live AI Vet",
+  "description": "অবলা প্রাণীদের বিশ্বস্ত চিকিৎসালয় ও জরুরি সেবা। ডক্টর শান্তর সাথে সরাসরি যোগাযোগ: 01301326704। লাইভ ভয়েস পরামর্শ, সফল চিকিৎসার গল্প ও জরুরি গবাদিপশু চিকিৎসা সেবা।",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
